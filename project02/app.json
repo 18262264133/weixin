@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/chooseCity/chooseCity",
+    "pages/activity/activity",
+    "pages/chooseActivity/chooseActivity"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarTitleText": "线下课程",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTextStyle": "white"
+  }
+}
